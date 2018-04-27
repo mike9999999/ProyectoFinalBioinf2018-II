@@ -9,7 +9,8 @@ La propuesta para el trabajo final del curso es la de analizar datos propios obt
 
 La metodología con la que se evaluará el transcriptoma consiste en la hibridación de microarreglos de expresión, en este caso se utilizó el chip Raragen 2.0 ST de Affymetrix. Este chip evalúa 28,407 transcritos de los cuales, ~22,000 son codificantes para proteínas. Cabe mencionar que en este trabajo es de interés generar un análisis de transcriptoma por contraste para determinar la expresión relativa.
 
-## Análisis bioinformático
+## Análisis bioinformático 
+[SCRIPT_WROKFLOW](https://github.com/mike9999999/ProyectoFinalBioinf2018-II/blob/master/TA_SCRIPT_segundo%20avance.r)
 
 Para realizar los diferentes análisis bioinformáticos se utilelizará el software R y paqueterías como:
 
@@ -36,12 +37,6 @@ Ragene10sttranscriptcluster.db: Para obtener anotaciones.
 5.- Una vez obtenido lo anterior, se procederá a determinar el conglomerado de transcritos diferenciales y su representación en vías metabólicas.
 
 ## Cronograma
-
-**5 abril:** 
-
-Entrega del primer reporte que contiene la propuesta de proyecto final de la clase.
-
-Investigación de comandos para funciones de cada paquete de R a utilizar.
 
 **26 abril:** 
 
