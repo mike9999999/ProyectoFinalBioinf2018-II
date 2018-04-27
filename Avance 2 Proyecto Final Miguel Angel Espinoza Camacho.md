@@ -24,6 +24,8 @@ La metodología con la que se evaluará el transcriptoma consiste en la hibridac
 
 ### Análisis bioinformático
 
+[SCRIPT_WROKFLOW](https://github.com/mike9999999/ProyectoFinalBioinf2018-II/blob/master/TA_SCRIPT_segundo%20avance.r)
+
 Para realizar los diferentes análisis bioinformáticos se utilelizará el software R y paqueterías como:
 
 Affy y Oligo : para leer los archivos tipo .CEL 
@@ -50,11 +52,7 @@ Ragene10sttranscriptcluster.db: Para obtener anotaciones.
 
 ## Cronograma
 
-**5 abril:** 
 
-Entrega del primer reporte que contiene la propuesta de proyecto final de la clase.
-
-Investigación de comandos para funciones de cada paquete de R a utilizar.
 
 **26 abril:** 
 
