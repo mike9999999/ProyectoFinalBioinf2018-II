@@ -29,7 +29,11 @@ La metodología con la que se evaluará el transcriptoma consiste en la hibridac
 ## Resultados Parciales
 Distribución de datos crudos
 
-![datos crudos.png](datos crudos.png)
+
+![](datos crudos.png)
+
+
+
 ![datos crudos.png](datos crudos.png)
 ![]()
 
