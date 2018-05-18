@@ -29,20 +29,35 @@ La metodología con la que se evaluará el transcriptoma consiste en la hibridac
 ## Resultados Parciales
 Distribución de datos crudos
 
-
 ![datos crudos](https://github.com/mike9999999/ProyectoFinalBioinf2018-II/blob/master/datos%20crudos.png)
 
 
-
-![datos crudos.png](datos crudos.png)
-![]()
+Análisis de calidad
 
 
+![Calidad](https://github.com/mike9999999/ProyectoFinalBioinf2018-II/blob/master/MAPLOTS.png)
 
 
+Normalización de datos
 
 
+![Norm](https://github.com/mike9999999/ProyectoFinalBioinf2018-II/blob/master/normaliados.png)
 
+
+Analisis de componentes principales
+
+
+![componentes](https://github.com/mike9999999/ProyectoFinalBioinf2018-II/blob/master/AN_PCA.png)
+
+Expresión diferencial
+
+
+![volcano](https://github.com/mike9999999/ProyectoFinalBioinf2018-II/blob/master/VOLCANO%20PLOT.png)
+
+Cluster de expresión relativa 
+
+
+![heat](https://github.com/mike9999999/ProyectoFinalBioinf2018-II/blob/master/heatmap.png)
 
 
 
@@ -58,9 +73,11 @@ Realizar los análisis correspondientes a calidad y normalización así como de 
 
 Desarrollos de las redes de interacción metabólica.
 
-Termino del proyecto
+**17 mayo:**
 
-**17 de mayo: entrega final**
+Entrega del tercer avance
+
+**25 de mayo: entrega final**
 
 ## Referencias
 
