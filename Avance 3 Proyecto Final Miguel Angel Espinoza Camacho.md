@@ -1,4 +1,4 @@
-## Segundo avance del proyecto final
+## Tercer avance del proyecto final
                                                   *Miguel Angel Espinoza Camacho*
 # Propuesta del proyecto. 
 
@@ -15,7 +15,7 @@ Mientras que el tejido adiposo presenta diferentes funciones esenciales y actual
 
 ## El objetivo 
 
-El presente trabajo fue analizar el efecto a corto plazo de la sobrenutrición temprana en el transcriptoma del eje hipotálamo-tejido adiposo en rata Wistar.
+El presente trabajo es analizar el efecto a corto plazo de la sobrenutrición temprana en el transcriptoma del tejido adiposo en rata Wistar.
 
 
 ## Materiales y métodos 
@@ -24,31 +24,23 @@ La metodología con la que se evaluará el transcriptoma consiste en la hibridac
 
 ### Análisis bioinformático
 
-[SCRIPT_WROKFLOW](https://github.com/mike9999999/ProyectoFinalBioinf2018-II/blob/master/TA_SCRIPT_segundo%20avance.r)
+[SCRIPT_WROKFLOW](https://github.com/mike9999999/ProyectoFinalBioinf2018-II/blob/master/script_avance%203.R)
 
-Para realizar los diferentes análisis bioinformáticos se utilelizará el software R y paqueterías como:
+## Resultados Parciales
+Distribución de datos crudos
 
-Affy y Oligo : para leer los archivos tipo .CEL 
+![datos crudos.png](datos crudos.png)
+![datos crudos.png](datos crudos.png)
+![]()
 
-Limma: Para generar contrastes estadísticos.
 
-Gplots: Para generar gráficos de densidad y contraste de expresión.
 
-Ggplot2: Para generar gráficos de tipo PCA.
 
-Ragene10sttranscriptcluster.db: Para obtener anotaciones.
 
- Estrategia para analizar el transcriptoma:
 
-1.- Los datos se leerán y ordenaran por condición experimental.
 
-2.- Se realizara un análisis de calidad y se terminará su inclusión o exclusión del estudio.
 
-3.- Se generará una normalización de datos (raw data) para homogenizar diferencia interexperimentales.
 
-4.- Posteriormente realizaremos los contrastes estadísticos para obtener la expresión diferencial.
-
-5.- Una vez obtenido lo anterior, se procederá a determinar el conglomerado de transcritos diferenciales y su representación en vías metabólicas.
 
 ## Cronograma
 
