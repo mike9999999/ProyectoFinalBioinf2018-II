@@ -30,7 +30,7 @@ La metodología con la que se evaluará el transcriptoma consiste en la hibridac
 Distribución de datos crudos
 
 
-![](datos crudos.png)
+![datos crudos](https://github.com/mike9999999/ProyectoFinalBioinf2018-II/blob/master/datos%20crudos.png)
 
 
 
